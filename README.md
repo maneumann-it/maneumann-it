@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
 - 👋 Hi, I’m Michael Neumann
 - 👀 I’m interested in dogs, mountains, and new tech. 
 - 🌱 I’m currently learning python
